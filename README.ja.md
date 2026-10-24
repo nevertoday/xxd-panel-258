@@ -1,158 +1,270 @@
 <div align="center">
 
-# XXD Panel 258｜奶油梦境
+# XXD Panel 258｜クリームの夢景
 
-上は原写真。下は主体をごく小さい柔らかい彫刻にし、クリーム色の幾何空間に浮かべる。
+**写真の主役を、クリームのようにやわらかい小さな彫刻にこね直し、クリーム色の広い空間に浮かべます。**
 
-<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
+<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <strong>日本語</strong> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
 
-> 原始プロンプト（5言語の入口）：[简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)。
-
-## 16:9 左右の作例
-
-上下の組とは別の縦写真20点。それぞれ 16:9 の左右完成キャンバス。左が現実写真、右が本 Panel のデザイン、厳密に 50:50。文字は今の写真から生成し、中国語・英語・日本語・韓国語・アラビア語を順に回す。
-
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 258 sample 21"></td>
-    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 258 sample 22"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 258 sample 23"></td>
-    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 258 sample 24"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 258 sample 25"></td>
-    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 258 sample 26"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 258 sample 27"></td>
-    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 258 sample 28"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 258 sample 29"></td>
-    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 258 sample 30"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 258 sample 31"></td>
-    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 258 sample 32"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 258 sample 33"></td>
-    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 258 sample 34"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 258 sample 35"></td>
-    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 258 sample 36"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 258 sample 37"></td>
-    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 258 sample 38"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 258 sample 39"></td>
-    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 258 sample 40"></td>
+    <td width="50%"><img src="./assets/examples/sample-01.png" alt="XXD Panel 258"></td>
+    <td width="50%"><img src="./assets/examples/sample-02.png" alt="XXD Panel 258"></td>
   </tr>
 </table>
 
-## 3:4 上下の作例
+<p align="center"><sub>上が元の写真、下がこのスタイルで描き直したものです。</sub></p>
 
-互いに異なる20点の写真で、それぞれ 3:4 上下の完成キャンバス。上が現実写真、下が本 Panel のデザイン、厳密に 50:50。文字は今の写真から生成し、中国語・英語・日本語・韓国語・アラビア語を順に回す。
+## これは何か
 
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-01.png" alt="XXD Panel 258 sample 01"></td>
-    <td width="50%"><img src="./assets/examples/sample-02.png" alt="XXD Panel 258 sample 02"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-03.png" alt="XXD Panel 258 sample 03"></td>
-    <td width="50%"><img src="./assets/examples/sample-04.png" alt="XXD Panel 258 sample 04"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 258 sample 05"></td>
-    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 258 sample 06"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 258 sample 07"></td>
-    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 258 sample 08"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 258 sample 09"></td>
-    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 258 sample 10"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 258 sample 11"></td>
-    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 258 sample 12"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-13.png" alt="XXD Panel 258 sample 13"></td>
-    <td width="50%"><img src="./assets/examples/sample-14.png" alt="XXD Panel 258 sample 14"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-15.png" alt="XXD Panel 258 sample 15"></td>
-    <td width="50%"><img src="./assets/examples/sample-16.png" alt="XXD Panel 258 sample 16"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-17.png" alt="XXD Panel 258 sample 17"></td>
-    <td width="50%"><img src="./assets/examples/sample-18.png" alt="XXD Panel 258 sample 18"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-19.png" alt="XXD Panel 258 sample 19"></td>
-    <td width="50%"><img src="./assets/examples/sample-20.png" alt="XXD Panel 258 sample 20"></td>
-  </tr>
-</table>
+Claude Code や Codex などの AI エージェント向け Skill です。写真を 1 枚渡すと、Panel 258 の原文プロンプトに沿って PNG の完成作品を描きます。
 
-## 向いている場面と解決する課題
+- **どんな絵になるか：** 主役はいちばん大切な特徴を残しつつ、輪郭がやわらかくなり、構造は簡略化され、比率は誇張されることもあります。丸く、少し溶けかけたような形になり、クリームの彫刻、やわらかな粘土、溶けた絵の具のあいだにある夢の中のもののように、クリーム色の空間から自然に生えてきたように見えます。表面はやわらかくマットで、泡立てた絵の具のような厚塗りの質感があり、ゆるやかな盛り上がりや小さな凹凸がありますが、本物の食べ物でもプラスチックのおもちゃでもありません。背景はミニマルなクリーム色の幾何学の面と広い余白で、主役はとても小さく、中央かわずかにずらして置かれ、下にやわらかな影と少し浮いた感じがあります。写真のいちばん明るい色を、生成り、ピーチ、霧のような青、ミント、やわらかな黄色、コーラル、薄紫に変えます。繊細で控えめなモダン書体の短い一行を添えます。
+- **キーワード：** クリームの夢景 · やわらかな彫刻 · ごく小さな主役 · クリーム色の空間 · 触感のファンタジー · やわらかなパステル
+- **作れるもの：** 上下比較（上に写真、下にデザイン）、左右比較、デザインのみ、またはスマホ／タブレット／PC／ウォッチの壁紙セット。複数選択でき、比率やピクセル数も自由です。
+- **これは違う：** フィルターでもテンプレートでもありません。毎回あなたの写真から描き直し、写真 1 枚ごとに独立したタスクです。
 
-原物をクリーム、軟陶、夢のあいだの新しい形に翻訳する。上は原写真。下は識別の核を残し、輪郭を柔らかくし、比例を誇張し、わずかに溶かしてよい。主体は極小、中央か軽い偏移。
+## 3 ステップで始める
 
-背景は極小のクリーム色幾何と大きな余白。柔らかい影と浮き。実物をクリーム商品にすること、硬いプラスチック、埋めた場面は避ける。
-
-## 使い方のコツ
-
-- **まず一枚の見やすい写真から始める：** 主体・動作・関係が分かる画像を選んでから、出力形式と比率を決めます。
-- **パラメータを一文でつなぐ：** 「上下 / 左右 / デザインのみ + 16:9 / 3:4 / スマホ壁紙」のように指定し、PC・タブレット・スマートウォッチのサイズも追加できます。
-- **残したい内容を明示する：** 人物、物、動作、関係、文字を指定し、レイアウトを細かく縛りすぎずスタイルに任せます。
-- **文字の方法を選ぶ：** 画像から自動生成、`--text exact --copy` で逐字固定、または `--text none` で文字なしにできます。
-- **写真領域とデザイン領域を伝える：** 上下・左右では写真を残す側と再設計する側を指定し、デザインのみ・壁紙では全画面を再設計すると伝えます。
-- **一枚で試してから一括処理する：** モード、比率、文字、言語を一枚で確認し、同じ設定をフォルダに適用します。比較しやすいよう一度に一つだけ変更します。
-
-## はじめに
-
-GitHub からインストール：
+**1. インストール。** Claude Code、Codex など Skills 対応のエージェントで使えます：
 
 ```bash
-npx skills add https://github.com/xiaoxiaodong-ai/xxd-panel-258 --skill xxd-panel-258
+npx skills add https://github.com/nevertoday/xxd-panel-258 --skill xxd-panel-258
 ```
 
-インストール後に Agent セッションを再起動し、`$xxd-panel-258` を呼び出します。ユーザー単位の Codex には `--global --agent codex --yes` を追加できます。
+インストール後、エージェントのセッションを開き直してください。このリポジトリを `git clone` して `~/.claude/skills/xxd-panel-258` または `~/.codex/skills/xxd-panel-258` にリンクしても使えます。
+
+**2. エージェントが画像を生成できるか確認。** この Skill 自体は画像モデルを持たず、エージェントの画像生成（GPT Image 2 推奨）を使います。
+
+- Codex は内蔵の画像生成が有効ならそのまま使えます。
+- Claude Code など内蔵の画像生成がないエージェントは、OpenAI 互換の画像 API が必要です。5 分ほどで設定できます：[画像生成の設定](#画像生成の設定)。
+
+わからなければそのまま試してください。生成できない場合は、作業を始める前に Skill が止まって知らせます。
+
+**3. 写真を送って、ひとこと：**
+
+> xxd-panel-258 でこの写真を 3:4 の上下比較ポスターにして、日本語のタイトルを付けて。
+
+指示がそろっていればすぐ生成し、足りない点（レイアウト、比率、文字）は 1〜2 問ほど質問します。完成した PNG は `~/Desktop/xxd/xxd-panel-258/` の新しいフォルダに保存されます。
+
+## 向いている写真
+
+**向いている**
+
+- シンプルでわかりやすい輪郭の主役一つ：子犬、小さな家、一本の木、靴
+- やわらかくするのが似合う丸いもの：雲、アザラシ、ティーカップ、桃
+- ライフスタイルブランドのビジュアル、やさしい壁紙、SNS のヘッダーにしたい写真
+
+**あまり向いていない**
+
+- 本物のものをクリーム製の商品、お菓子のパッケージ、製品レンダリングのように見せたい場合
+- 主役そのものが複雑な写真：機械、人混み、細部の多い建物
+- 主役を画面いっぱいにしたい場合や、硬いプラスチックの 3D、おもちゃのような仕上がりを求める場合
+
+## サンプル
+
+下の画像はすべて、この Skill が写真 1 枚から作った完成作品です。上下比較と左右比較では別の写真を使っています。
+
+### 上下比較：上が写真、下がデザイン
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-01.png" alt="XXD Panel 258"></td>
+    <td width="50%"><img src="./assets/examples/sample-02.png" alt="XXD Panel 258"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-03.png" alt="XXD Panel 258"></td>
+    <td width="50%"><img src="./assets/examples/sample-04.png" alt="XXD Panel 258"></td>
+  </tr>
+</table>
+
+<details>
+<summary>さらに 16 枚を見る</summary>
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 258"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 258"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 258"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 258"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 258"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 258"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 258"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 258"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-13.png" alt="XXD Panel 258"></td>
+    <td width="50%"><img src="./assets/examples/sample-14.png" alt="XXD Panel 258"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-15.png" alt="XXD Panel 258"></td>
+    <td width="50%"><img src="./assets/examples/sample-16.png" alt="XXD Panel 258"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-17.png" alt="XXD Panel 258"></td>
+    <td width="50%"><img src="./assets/examples/sample-18.png" alt="XXD Panel 258"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-19.png" alt="XXD Panel 258"></td>
+    <td width="50%"><img src="./assets/examples/sample-20.png" alt="XXD Panel 258"></td>
+  </tr>
+</table>
+
+</details>
+
+### 左右比較：左が写真、右がデザイン
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 258"></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 258"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 258"></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 258"></td>
+  </tr>
+</table>
+
+<details>
+<summary>さらに 16 枚を見る</summary>
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 258"></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 258"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 258"></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 258"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 258"></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 258"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 258"></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 258"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 258"></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 258"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 258"></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 258"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 258"></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 258"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 258"></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 258"></td>
+  </tr>
+</table>
+
+</details>
+
+## こう言えば OK
+
+パラメータを覚える必要はありません。そのまま伝えてください：
+
+| やりたいこと | こう言う |
+|---|---|
+| 上下比較 | 3:4 の上下比較にして |
+| 左右比較 | 16:9 の左右比較で、左に写真 |
+| デザインのみ | 写真なしでデザインだけ、9:16 縦長 |
+| 壁紙セット | スマホ、タブレット、PC、ウォッチの壁紙を統一感のあるセットで |
+| 複数の比率 | 同じ写真で 1:1、3:4、16:9 を 1 枚ずつ |
+| 自分の文字 | タイトルは「風の通り道」、一字も変えないで |
+| 文字なし | 文字は一切入れないで |
+| 文字の言語 | 文字は英語で |
+| フォルダごと | このフォルダの写真を全部上下比較にして |
+| 前回と同じ | 前回の設定で |
+
+コマンドラインが好みなら、パラメータは上と一対一で対応します：
 
 ```text
 /xxd-panel-258 photo.jpg --mode top-bottom --size 3:4 --text prompt --locale ja-JP
-/xxd-panel-258 photo.jpg --mode left-right --size 16:9 --text prompt --locale en-US
-/xxd-panel-258 photo.jpg --mode design-only --size 9:16 --text none --prefs off
+/xxd-panel-258 photo.jpg --mode design-only --size 9:16 --text none
+/xxd-panel-258 ./photos --mode left-right --size 16:9 --text prompt --locale en-US
 ```
 
-完全な実行契約は [SKILL.md](SKILL.md)、実行アダプターは[英語](references/xxd-panel-258-prompt.en.md)／[中国語](references/xxd-panel-258-prompt.zh-CN.md)を参照してください。
+すべてのパラメータは[パラメータ一覧](#パラメータ一覧)にあります。
+
+## よくある質問
+
+**元の写真は必ず入りますか？** いいえ。「デザインだけ」や壁紙なら、画面全体がデザインになります。
+
+**文字は誰が書くのですか？** 既定では画像モデルが写真を見て書き、あなたは言語だけを選びます。自分の文字を指定すれば一字も変えずに使い、文字なしにもできます。事実に見える情報（地名、日付、数字）は、あなたが渡したものか写真に写っているものだけを使い、作りません。
+
+**気に入らなかったら？** 「もう 1 枚」と言ってください。前の結果を直すのではなく元の写真から描き直すので、毎回違う結果になります。
+
+**まとめて処理すると混ざりませんか？** 混ざりません。写真ごとに個別に生成し、ほかの写真の色、文字、構図を借りません。設定は一括で 1 回だけ聞きます。
+
+**写真はどこに送られますか？** エージェントが使う画像モデルにだけ送られます。Skill はほかへアップロードせず、接続先やキーも表示しません。
+
+**ほかの Panel との関係は？** XXD Panel は番号ごとに 1 つのスタイルで、互いに独立しています。好きなものだけ入れてかまいません。写真に合うスタイルを AI に選ばせたい、複数を比べたいときは、カタログ [xxd-panel-all](https://github.com/nevertoday/xxd-panel-all) を使ってください。
 
 ## 原文プロンプト
 
-[中国語の完全な原文](references/original-prompt/zh-CN.md)を逐字保存し、実行時の創作と美的判断の唯一の基準とします。本バッチは5言語の利用説明を提供しますが、長い原文の4言語訳は追加しません。概要は検索用で、原文の代用ではありません。
+このスタイルは小小東が書いた[原文プロンプト](references/original-prompt/zh-CN.md)（中国語）だけで決まります。Skill はあなたが選んだレイアウト、サイズ、文字の設定を末尾に足すだけで、要約・翻訳・書き換えはしません。
 
-## クイック判定
+参考訳（読むためのもので、画像生成には使いません）：[English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
 
-元写真の同一性を保ちながら構図を再演出し、素材の特徴と意図的な余白を両立。指定文・自動文案・文字なし、単画像・再帰的フォルダー処理、下記の4出力モードに対応します。
+## 画像生成の設定
 
-## 4つの出力モード
+`gpt-image-2`（または互換モデル）を提供する OpenAI 互換 API とその API キーが必要です。次の手順は別の設定ファイルを作るので、Codex 本体の設定には影響しません：
 
-- `top-bottom`：全幅の上下2領域のみ。実写を上、デザインを下に置き、各50%。
-- `left-right`：全高の左右2領域のみ。実写を左、デザインを右に置き、各50%。上下構成へ回転しません。
-- `design-only`：全画面を Panel 258 のデザイン翻訳にし、写真は見えない参照にします。
-- `wallpaper-pack`：スマートフォン、iPad、デスクトップ、時計を端末ごとに生成。`linked` または `independent` を選べます。
+```bash
+mkdir -p ~/.xxd-imagegen
+cat > ~/.xxd-imagegen/config.toml <<'EOF'
+model_provider = "image"
 
-モードと比率は複数指定できます。`1:1`、`3:4`、`4:3`、`4:5`、`5:4`、`2:3`、`3:2`、`9:16`、`16:9`、`21:9`、`5:7`、`7:5`、正確なピクセルに対応します。文字はプロンプト生成、指定文の逐字使用、なしから選べます。フォルダ入力では各画像を分離して処理し、PNGを一つの新しいタスクフォルダへ置きます。
+[model_providers.image]
+base_url = "https://api.openai.com/v1"   # または互換エンドポイント
+env_key = "XXD_IMAGE_API_KEY"
+EOF
+
+# ~/.zshrc か ~/.bashrc に書き、エージェントからも読めるようにする
+echo 'export XXD_IMAGEGEN_CODEX_DIR=~/.xxd-imagegen' >> ~/.zshrc
+echo 'export XXD_IMAGE_API_KEY=あなたのキー' >> ~/.zshrc
+```
+
+ターミナルとエージェントを開き直してから、この Skill のフォルダで一度確認します：
+
+```bash
+python3 scripts/configured_imagegen.py probe
+```
+
+`"ok":true` なら成功です。結果は使えるかどうかだけで、接続先やキーは表示されません。Codex がすでに互換 API で画像を生成できるなら、この手順は不要です。
+
+## パラメータ一覧
+
+| パラメータ | 値 |
+|---|---|
+| `--mode` | `top-bottom` 上下比較 · `left-right` 左右比較 · `design-only` デザインのみ · `wallpaper-pack` 4 端末の壁紙；複数選択可 |
+| `--size` | `auto` おすすめ · `source` 写真に合わせる · `1:1` `3:4` `4:3` `4:5` `5:4` `2:3` `3:2` `9:16` `16:9` `21:9` `5:7` `7:5` · ピクセル指定（例 `2160x3840`）；複数選択可 |
+| `--text` | `prompt` 写真から書く · `exact` あなたの文字（`--copy "…"` と併用） · `none` 文字なし |
+| `--locale` | 文字の言語。例：`zh-CN` `en-US` `ja-JP` `ko-KR` `ar` |
+| `--wallpaper` | `linked` 統一感のあるセット · `independent` 4 枚それぞれ独立 |
+| `--wallpaper-size` | 端末ごとのピクセル。例：`phone=1440x3200,desktop=3840x2160` |
+| `--out` | 出力先のルートを変更（既定は `~/Desktop/xxd/xxd-panel-258/`） |
+| `--prefs` | `last` 前回どおり · `edit` 前回から変更 · `new` 選び直す · `off` 今回は記録しない · `clear` 記録を消す |
+
+- 値がそろっていれば質問せず、足りないものだけを聞きます。`photo.jpg` の代わりにフォルダを渡すと一括処理になります。
+- 組み合わせは 1 枚ずつ生成します。2 モード × 3 サイズ = 6 枚で、どれも切り抜きではなくキャンバスごとに構図を組み直します。
+- 比較画像は正確に 50:50 です。通常はモデルがデザイン側だけを描き、スクリプトが元の写真をそのまま隣に並べるので、境目は中央で写真も変わりません。
+- ファイル名は `source-001-street-top-bottom-3x4-1152x1536.png` のような形式で、すべて 1 つのタスクフォルダに平置きされます。
+- 記録するのはレイアウト、サイズ、文字の方式と言語だけで、写真、文字、キーは残しません。
 
 <!-- xxd-readme-ads:start -->
 ## XXD について

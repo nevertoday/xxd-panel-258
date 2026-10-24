@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-258
-description: "Create XXD Panel 258 raster artwork: a faithful photograph paired with a creamy dreamscape that remakes the subject as a tiny soft sculptural form in a pale geometric field. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-258 or asks for this 奶油梦境 style."
+description: "XXD Panel 258｜Creamy Dreamscape: reinterprets the subject of a photo as a tiny soft sculpture somewhere between whipped cream, soft clay and melting paint — softened outlines, simplified rounded forms, exaggerated proportions and a slightly melting, surreal shape that keeps the key identifying features, with a buttery, soft matte, handmade tactile surface, set small and centred or slightly offset in a minimal cream-coloured geometric space of soft planes, gentle shadow and a slight float, in bright soft colours of cream, peach, misty blue, mint, soft yellow, coral and lilac from the photo, plus a short line of refined modern type. Not a realistic food, toy or product render. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-258 or asks for creamy, soft-sculpture or tactile dreamy minimal art from a photo."
 ---
 
 # XXD Panel 258

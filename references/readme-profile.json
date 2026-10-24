@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 258｜Creamy Dreamscape: reinterprets the subject of a photo as a tiny soft sculpture somewhere between whipped cream, soft clay and melting paint — softened outlines, simplified rounded forms, exaggerated proportions and a slightly melting, surreal shape that keeps the key identifying features, with a buttery, soft matte, handmade tactile surface, set small and centred or slightly offset in a minimal cream-coloured geometric space of soft planes, gentle shadow and a slight float, in bright soft colours of cream, peach, misty blue, mint, soft yellow, coral and lilac from the photo, plus a short line of refined modern type. Not a realistic food, toy or product render. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-258 or asks for creamy, soft-sculpture or tactile dreamy minimal art from a photo.",
+  "short_description": "奶油梦境：把照片主体收成极小的柔软奶油雕塑，浮在奶油色的几何空场里",
+  "zh-CN": {
+    "name": "奶油梦境",
+    "tagline": "把照片主体重新捏成一件极小的柔软奶油雕塑，浮在奶油色的空旷空间里。",
+    "look": "主体保留最核心的识别特征，但轮廓变软、结构简化、比例可以夸张，形态圆润、略带融化感，像介于奶油雕塑、软陶和融化颜料之间的梦境物体，从奶油色空间里自然长出来。表面是柔软、哑光、像打发颜料一样的厚涂质感，有轻微堆叠和凹凸，但不是真实食品，也不是塑料玩具。背景是极简的奶油色几何平面和大量留白，主体很小，居中或轻微偏移，下方一点柔和阴影和浮起感。颜色从照片取最明亮的几种，改成奶油白、蜜桃粉、雾蓝、薄荷绿、柔黄、珊瑚橙、淡紫。配一行细腻克制的现代字体短句。",
+    "traits": ["奶油梦境", "柔软雕塑", "极小主体", "奶油色空间", "触觉幻想", "柔和粉彩"],
+    "good": [
+      "轮廓简单好认的单个主体：一只小狗、一栋小房子、一棵树、一只鞋",
+      "形状圆润、适合变软的东西：一朵云、一只海豹、一个茶杯、一颗桃子",
+      "想做成生活方式品牌视觉、温柔壁纸或社交头图的照片"
+    ],
+    "poor": [
+      "想让真实物体看起来像奶油商品、甜品包装或产品渲染的需求",
+      "主体本来就很复杂的照片：机械、人群、细节多的建筑",
+      "想让主体占满画面，或想要硬塑料 3D、卡通玩具感的效果"
+    ]
+  },
+  "en": {
+    "name": "Creamy Dreamscape",
+    "tagline": "Remoulds the subject of your photo as a tiny soft cream sculpture floating in an open, cream-coloured space.",
+    "look": "The subject keeps its key identifying features, but its outline softens, its structure simplifies and its proportions may be exaggerated, becoming a rounded, slightly melting dream object somewhere between a cream sculpture, soft clay and melting paint, as if it grew out of the cream-coloured space. The surface is soft, matte and thick like whipped paint, with gentle piling and small bumps, yet it is neither real food nor a plastic toy. The background is a minimal set of cream geometric planes with plenty of empty space; the subject is very small, centred or slightly offset, with a soft shadow and a slight float beneath it. The brightest colours in the photo become cream, peach, misty blue, mint, soft yellow, coral and lilac. A short line of refined, restrained modern type goes with it.",
+    "traits": ["Creamy dreamscape", "Soft sculpture", "Tiny subject", "Cream-coloured space", "Tactile fantasy", "Soft pastels"],
+    "good": [
+      "A single subject with a simple, recognisable outline: a puppy, a small house, a tree, a shoe",
+      "Rounded things that suit softening: a cloud, a seal, a teacup, a peach",
+      "Photos you want as lifestyle brand visuals, a gentle wallpaper or a social header"
+    ],
+    "poor": [
+      "Wanting a real object to look like a cream product, dessert packaging or product render",
+      "Photos whose subject is already complex: machines, crowds, highly detailed buildings",
+      "Wanting the subject to fill the frame, or a hard plastic 3D or toy look"
+    ]
+  },
+  "ja": {
+    "name": "クリームの夢景",
+    "tagline": "写真の主役を、クリームのようにやわらかい小さな彫刻にこね直し、クリーム色の広い空間に浮かべます。",
+    "look": "主役はいちばん大切な特徴を残しつつ、輪郭がやわらかくなり、構造は簡略化され、比率は誇張されることもあります。丸く、少し溶けかけたような形になり、クリームの彫刻、やわらかな粘土、溶けた絵の具のあいだにある夢の中のもののように、クリーム色の空間から自然に生えてきたように見えます。表面はやわらかくマットで、泡立てた絵の具のような厚塗りの質感があり、ゆるやかな盛り上がりや小さな凹凸がありますが、本物の食べ物でもプラスチックのおもちゃでもありません。背景はミニマルなクリーム色の幾何学の面と広い余白で、主役はとても小さく、中央かわずかにずらして置かれ、下にやわらかな影と少し浮いた感じがあります。写真のいちばん明るい色を、生成り、ピーチ、霧のような青、ミント、やわらかな黄色、コーラル、薄紫に変えます。繊細で控えめなモダン書体の短い一行を添えます。",
+    "traits": ["クリームの夢景", "やわらかな彫刻", "ごく小さな主役", "クリーム色の空間", "触感のファンタジー", "やわらかなパステル"],
+    "good": [
+      "シンプルでわかりやすい輪郭の主役一つ：子犬、小さな家、一本の木、靴",
+      "やわらかくするのが似合う丸いもの：雲、アザラシ、ティーカップ、桃",
+      "ライフスタイルブランドのビジュアル、やさしい壁紙、SNS のヘッダーにしたい写真"
+    ],
+    "poor": [
+      "本物のものをクリーム製の商品、お菓子のパッケージ、製品レンダリングのように見せたい場合",
+      "主役そのものが複雑な写真：機械、人混み、細部の多い建物",
+      "主役を画面いっぱいにしたい場合や、硬いプラスチックの 3D、おもちゃのような仕上がりを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "크림 꿈결",
+    "tagline": "사진 속 주인공을 크림처럼 말랑한 아주 작은 조각으로 다시 빚어, 크림색의 빈 공간에 띄웁니다.",
+    "look": "주인공은 가장 중요한 특징은 남기되 윤곽이 부드러워지고 구조가 단순해지며 비례는 과장될 수 있습니다. 둥글고 조금 녹아내리는 듯한 형태로, 크림 조각과 말랑한 점토, 녹은 물감 사이에 있는 꿈속의 물체처럼 크림색 공간에서 저절로 자라난 듯 보입니다. 표면은 부드럽고 무광이며 휘핑한 물감처럼 두툼한 질감에 살짝 쌓이고 오돌토돌한 결이 있지만, 진짜 음식도 플라스틱 장난감도 아닙니다. 배경은 크림색 기하학 면 몇 개와 넓은 여백뿐이며, 주인공은 아주 작게 가운데나 살짝 비켜 놓이고 아래에 부드러운 그림자와 살짝 떠 있는 느낌이 있습니다. 사진에서 가장 밝은 색을 크림색, 복숭아색, 안개 낀 파랑, 민트, 연노랑, 코랄, 연보라로 바꿉니다. 섬세하고 절제된 현대 서체로 짧은 한 줄을 곁들입니다.",
+    "traits": ["크림 꿈결", "말랑한 조각", "아주 작은 주인공", "크림색 공간", "촉감의 판타지", "부드러운 파스텔"],
+    "good": [
+      "윤곽이 단순하고 알아보기 쉬운 주인공 하나: 강아지, 작은 집, 나무, 신발",
+      "말랑하게 바꾸기 좋은 둥근 것: 구름, 물범, 찻잔, 복숭아",
+      "라이프스타일 브랜드 비주얼, 부드러운 배경화면, SNS 헤더로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "실제 물건을 크림 제품, 디저트 포장, 제품 렌더링처럼 보이게 하고 싶은 경우",
+      "주인공 자체가 복잡한 사진: 기계, 인파, 세부가 많은 건물",
+      "주인공이 화면을 가득 채우길 원하거나 딱딱한 플라스틱 3D, 장난감 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "حلم الكريمة",
+    "tagline": "يعيد تشكيل عنصر صورتك منحوتةً صغيرة جداً ناعمة كالكريمة، تطفو في فضاء مفتوح بلون الكريم.",
+    "look": "يحتفظ العنصر بأهم ملامحه المميزة، لكن حدوده تلين وبنيته تُبسَّط وقد تُبالغ نِسبه، فيصير شيئاً حالماً مستديراً يكاد يذوب، بين منحوتة من الكريمة وصلصال طري وطلاء ذائب، كأنه نبت من الفضاء الكريمي نفسه. سطحه ناعم مطفأ كثيف كطلاء مخفوق، فيه تراكم لطيف ونتوءات صغيرة، لكنه ليس طعاماً حقيقياً ولا لعبة بلاستيكية. الخلفية مجموعة بسيطة من المسطّحات الهندسية بلون الكريم مع فراغ كثير؛ والعنصر صغير جداً في الوسط أو مُزاح قليلاً، تحته ظلّ ناعم وإحساس خفيف بالطفو. تتحول أشد ألوان الصورة إشراقاً إلى الكريمي والخوخي والأزرق الضبابي والنعناعي والأصفر الناعم والمرجاني والليلكي. ويرافقه سطر قصير بخط حديث رقيق متحفّظ.",
+    "traits": ["حلم الكريمة", "منحوتة ناعمة", "عنصر صغير جداً", "فضاء بلون الكريم", "خيال لمسي", "باستيل ناعم"],
+    "good": [
+      "عنصر واحد بحدود بسيطة يسهل تمييزها: جرو، بيت صغير، شجرة، حذاء",
+      "أشياء مستديرة يليق بها التليين: غيمة، فقمة، فنجان شاي، خوخة",
+      "صور تريدها هوية بصرية لعلامة أسلوب حياة أو خلفية شاشة لطيفة أو صورة غلاف لحساب اجتماعي"
+    ],
+    "poor": [
+      "الرغبة في أن يبدو شيء حقيقي كمنتج من الكريمة أو عبوة حلوى أو تصيير منتج",
+      "صور عنصرها معقّد أصلاً: آلات، حشود، مبانٍ كثيرة التفاصيل",
+      "الرغبة في أن يملأ العنصر الإطار، أو في مظهر بلاستيكي ثلاثي الأبعاد صلب أو شكل لعبة"
+    ]
+  }
+}
